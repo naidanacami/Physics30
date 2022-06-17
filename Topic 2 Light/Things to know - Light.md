@@ -125,6 +125,11 @@ Whether or not an image is formed depends on a number of factors
 - $|d_i|>|d_o|$: Image is bigger
 - $|d_i|<|d_o|$: Object is bigger
 
+**$f$**: 
+- $f$ is negative if it is a diverging mirror (convex)*
+- $f$ is positive for converging mirror (concave)*
+
+\*I could not find this explicitly stated in the notes. It is stated in the practice problems. This might not be entirely correct.
 
 
 <pre>
@@ -140,15 +145,13 @@ $\text{index of refraction} = \frac{\text{speed in vacuum}}{\text{speed in mediu
  - $n$ is always greater or equal to 1 and has **no units**
  - the slower the medium is, the bigger $n$ is
 
-<pre>
-</pre>
+<pre></pre>
 #### Snell's law
 $$
 \frac{\text{sin}\theta_{1}}{\text{sin}\theta_{2}}=\frac{\lambda_{1}}{\lambda_{2}}=\frac{v_{1}}{v_{2}}=\frac{n_2}{n_1}
 $$
 
-<pre>
-</pre>
+<pre></pre>
 #### Special problems
 
 ##### Parallel sides:
@@ -161,8 +164,7 @@ $$
 ##### Triangular prisms:
 Since the sides are not parallel, the internal angles of refraction and incidence will not be the same.
 
-<pre>
-</pre>
+<pre></pre>
 #### Total internal reflection
 When a light ray passes from slow to fast medium, $\theta r>\theta i$. Eventually, $\theta r$ approaches $90^{\circ}$
 
@@ -170,8 +172,7 @@ At the **critical angle** ($\theta c$), $\theta r=90^{\circ}$. Beyond this, refr
 
 **NOTE:** total internal reflection only happens when passing from low to high speed medium.
 
-<pre>
-</pre>
+<pre></pre>
 #### Lenses
 Lenses are very similar to [[Things to know - Light#3 Curved mirrors | curved mirrors]].
 
