@@ -241,11 +241,11 @@ Whether or not an image is formed depends on a number of factors
 3. Distance from the mirror to the object
 
 > Concave/Diverging lense\
-> *https://www.desmos.com/calculator/lhylpakxkn*
+> *https://www.desmos.com/calculator/qoyncgtbtd*
 > <iframe src="https://www.desmos.com/calculator/fb94sraxm8?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 > Concave/Converging lense\
-> https://www.desmos.com/calculator/kabilvtjx2z
+> *https://www.desmos.com/calculator/tagefpyast*
 > <iframe src="https://www.desmos.com/calculator/5izof2wtn1?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
 <pre>
