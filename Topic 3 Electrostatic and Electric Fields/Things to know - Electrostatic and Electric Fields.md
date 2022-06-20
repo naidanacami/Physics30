@@ -309,6 +309,7 @@ Millikan made a few assumptions:
 
 </pre>
 ### Misc
+***
 1. <u>Ebonite</u> becomes <u>negatively</u> charged when rubbed with fur.
 2. <u>Glass</u> becomes <u>positively</u> charged when rubbed with silk.
 3. Atoms and shit:
