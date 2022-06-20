@@ -109,6 +109,13 @@ $$
 </pre>
 2. I am fucking blind
 
+<pre></pre>
+Limitations:
+1. Only applies to solid conductors
+2. Ohm's law varies with temperature
+3. Applies to direct current and instantaneous alternating current
+4. Some combinations of materials conduct charge better in one direction than in the other.
+
 
 
 <pre>
@@ -202,12 +209,38 @@ E_p &= E_k \\
 \end{align}
 $$
 
+Finding $\vec v$:
+
+$$
+\begin{align}
+\Delta Vq &= \frac{1}{2}mv^2 \\
+\sqrt{\frac{2\Delta Vq}{m}} &= v
+\end{align}
+$$
+
 
 
 <pre>
 
 </pre>
-### 8. Parallel Plates
+### 8. Gravitational forces
+***
+$$
+F_g = mg
+$$
+Gravity is not a factor when:
+- $\vec F_g$ is $1000$ times less than $\vec F_e$
+
+Gravity is a factor when:
+- A particle with mass is suspended between parallel plates
+- A particle is mass is accelerating up or down in an electric field
+
+
+
+<pre>
+
+</pre>
+### 9. Parallel Plates
 Parallel plates create a uniform electric field between the two plates \
 [[_Electrostatic and Electric Fields Equations#Parallel plate electric field strength | Parallel plate electric field strength equation]]
 ***
@@ -215,6 +248,29 @@ $$
 |\vec{E}|=\frac{V}{d}
 $$
 
+<pre></pre>
+> <u>**Acceleration of a particle can be found:**</u>
+> 
+> $$
+> \begin{align}
+> \vec F_e &= \vec F_{NET} \\
+> q\vec E &= \vec F_{NET} \\
+> q\frac{\Delta V}{\Delta d} &= m\vec a \\
+> \frac{q\Delta V}{m\Delta d} &= \vec a
+> \end{align}
+> $$
+
+> <u>**Velocity of a particle can be found:**</u>
+> 
+> $$
+> \begin{align}
+> \vec E_p &= \vec E_K \\
+> q\Delta V &= \frac{1}{2}mv^2 \\
+> \sqrt{\frac{2q\Delta V}{m}} &= v \\
+> \end{align}
+> $$
+
+<pre></pre>
 #### Millikan's oil drop experiment
 The basic design of Millikan’s experiment involved two parallel plates, a distance (d) apart, hooked up to a variable voltage source where the voltage could be adjusted to provide just enough of an electric force to balance the force of gravity on the oil drop.
 
@@ -238,7 +294,8 @@ Millikan made a few assumptions:
 <pre>
 
 </pre>
-### 9. Direction of current
+### 10. Direction of current
+***
 1. <u>Conventional current</u>:
 	- $+\rightarrow -$
 	- Charge moves from an area of excess (positive) to an area of deficit (negative).
@@ -251,7 +308,7 @@ Millikan made a few assumptions:
 <pre>
 
 </pre>
-### Random Shit
+### Misc
 1. <u>Ebonite</u> becomes <u>negatively</u> charged when rubbed with fur.
 2. <u>Glass</u> becomes <u>positively</u> charged when rubbed with silk.
 3. Atoms and shit:
