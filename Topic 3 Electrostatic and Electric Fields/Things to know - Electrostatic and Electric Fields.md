@@ -3,9 +3,6 @@
   
 
 
-<pre>
-
-</pre>
 ### 1. Electrostatic shit
 ***
 
@@ -20,13 +17,18 @@
 Rubbing two object together allows electrons to move from one object to another
 -   Some shit holds onto electrons loosely and other hold onto them tightly<sup>[[Things to know - Electrostatic and Electric Fields#Random Shit | Addendum]]</sup>
 
+<pre></pre>
 ##### Charging by conduction
 When two objects touch, they end up having the same charge.
-- *Spherical conductors act differently (\*idfk if this is only for spheres or not. it doesn't fucking say.):
-	- Larger surface area means it will take more charge
-	- The charge it takes is proportional to the ratio of their surface ares
-		- i.e. if one sphere has twice the surface area of the other, it will have twice the charge.
 
+Charge distribution:
+- Larger surface area means it will take more charge
+- The charge it takes is proportional to the ratio of their surface areas
+	- i.e. if one sphere has twice the surface area of the other, it will have twice the charge.
+
+\*Charging an electroscope causes both the electroscope and the charging device to have the same charge
+
+<pre></pre>
 ##### Induced charge separation
 Moving a charged item near a neutral item causes the like charge in the neutral item to “move out of the way”
 
@@ -68,6 +70,12 @@ F_e &= d\frac{q_1q_2}{r^2} \\
 k &= 8.99\cdot 10^9 \frac{N\cdot m^2}{C^2} \\
 \end{align}
 $$
+
+If 2 or more charges are exerting a force on an object, you must calculate the force in the $x$ and $y$ direction, then use *Pythagoreatn's theorem* to find $F_{NET}$.
+
+Remember the [[Things to know - Electrostatic and Electric Fields#2 Laws and stuff | Law of Charges]] to determine the direction of the force
+
+Also, remember [[Misc#No explicit values given]]
 
 
 
