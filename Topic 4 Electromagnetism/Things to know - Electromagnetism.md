@@ -3,10 +3,8 @@
 
 
 
-<pre>
 
-</pre>
-### 1. What tf is north and south? 
+### 1. What is north and south? 
 ***
 #### Rules for magnetism:
 - There are two kinds of magnetic poles (North and South).
