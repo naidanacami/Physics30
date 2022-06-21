@@ -20,6 +20,7 @@ $V=IR$
 - $I$: Current ($A$ or $\frac{C}{s}$)
 - $R$: Resistance ($\Omega$)
 
+\*Not on formula sheet
 
 ### Electric fields
 $|\vec{E}|=\frac{|\vec{F}_e|}{q}$
@@ -44,10 +45,3 @@ $|\vec{E}|=\frac{V}{d}$
 - $|\vec{E}|$: Field strength ($\frac{N}{C}=\frac{V}{m}$)
 - $V$: potential difference across plates ($V$)
 - $d$: distance between plates ($m$)
-
-
-<pre>
-
-
-</pre>
-*Not on formula sheet
