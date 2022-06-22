@@ -241,7 +241,7 @@ $$
 V = B\vec{v}l\text{sin}\theta
 $$
 
-
+\*I cannot find this on the formula sheet
 
 <pre>
 
