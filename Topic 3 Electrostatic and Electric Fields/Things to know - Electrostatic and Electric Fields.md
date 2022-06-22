@@ -299,13 +299,15 @@ Millikan made a few assumptions:
 1. <u>Conventional current</u>:
 	- $+\rightarrow -$
 	- Charge moves from an area of excess (positive) to an area of deficit (negative).
+	- Conventional current flows from the **cathode** to the **anode**
 
 2. <u>Electron current</u>
 	- $-\rightarrow +$
 	- Electrons (negative) move to positive (positive)
-- 
+	- Electrons flow from the **anode** to the **cathode**
 
-
+<pre></pre>
+For schematics, the long line is the positive side and the short line is the negative side. 
 
 <pre>
 
