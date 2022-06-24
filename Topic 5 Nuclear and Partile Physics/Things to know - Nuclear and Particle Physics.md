@@ -310,7 +310,6 @@ Frank and Hertz bombarded mercury with electron energy. They found that for cert
 
 
 <pre></pre>
-
 - When an electron has more energy than any excitation level, can lose energy equal to each excitation level that is of lower energy???
 	- Ex: an electron with $9.12eV$ passes through mercury. It can move off with $0.28eV$, $2.45eV$, or $4.23eV$. 
 - Collisions are more likely to absorb energy in multiples of its lowest excitation level, therefore electrons that are able to lose multiples of the lowest excitation level are more likely to see a sharp decrease of current.
@@ -323,8 +322,7 @@ Electrons within atoms normally exist in a **ground state** ($0eV$). When they a
 
 When an atom's electron is given enough energy and reaches an <u>**ionization level**</u>, the electron leaves the atom which results in a positive atom.
 
-<pre></pre>
-**TL;DR:** WIP??
+
 
 <pre>
 
