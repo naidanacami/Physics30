@@ -46,9 +46,9 @@ $m_{a}v_{a}+m_{b}v_{b}=m_{a}'v_{a}'+m_{b}'v_{b}'$
 ***
 - <u>**Closed system:**</u> No **mass** enters or leaves the system
 
--<u>**Isolated system:**</u> No external **force** acts on the system. No **energy** leaves the system.
+- <u>**Isolated system:**</u> No external **force** acts on the system. No **energy** leaves the system.
 
--<u>**Open system:**</u> Mass can enter and leave the system. External forces are able to influence the system.
+- <u>**Open system:**</u> Mass can enter and leave the system. External forces are able to influence the system.
 
 
 
