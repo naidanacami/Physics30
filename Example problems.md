@@ -92,3 +92,56 @@ $af(x)$
 > $$
 > \frac{2}{9}\cdot 0.062=0.0138
 > $$
+
+
+
+<pre>
+
+</pre>
+### Pendulum at rest
+***
+
+When the pendulum is at rest, $F_{NET}=0$
+<iframe src="https://www.desmos.com/calculator/qqtbeyeeok?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
+
+That means that:
+
+$$
+\begin{align}
+F_t^2 &= F_a^2+F_g^2 \\\\
+\sin\theta &= \frac{F_a}{F_t} \\\\
+\cos\theta &= \frac{F_g}{F_t} \\\\
+\tan\theta &= \frac{F_a}{F_g}\\\\
+\end{align}
+$$
+
+
+Ex:\
+A $3.0\cdot 10^{-4}kg$ pith ball hangs from a $1.0m$ long thread between two vertical, parallel plates that are $0.10m$ apart, as shown in the given diagram. When the potential difference across the plates is $420V$, the pith ball deflects $0.010m$ to the side and comes to rest.
+
+What is the magnitude of the electric force that deflects the pith ball?
+
+$$
+\tan\theta = \frac{F_E}{F_g}
+$$
+
+We first need to get $\theta$
+$$
+\begin{align}
+\tan\theta &= \frac{o}{a} \\
+\tan\theta &= \frac{1}{0.01} \\
+\theta &= \tan^{-1}\left(\frac{0.01}{1}\right) \\
+\theta &= ~89.4270613^\circ
+\end{align}
+$$
+
+We can now find $F_E$
+$$
+\begin{align}
+\tan\theta &= \frac{F_E}{F_g} \\
+F_g\cdot\tan\theta &= F_E \\
+m\cdot g\cdot\tan\theta &= F_E \\
+F_E &= (3.0\cdot10^{-4})\cdot(9.81)\cdot\tan\left(\tan^{-1}\left(0.01\right)\right) \\
+F_E &= 2.9\cdot 10^{-5}
+\end{align}
+$$

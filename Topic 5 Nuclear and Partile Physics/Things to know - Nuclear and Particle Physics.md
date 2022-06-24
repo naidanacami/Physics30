@@ -70,6 +70,8 @@ Claims:
 - Atoms consists of $+$ and $-$ charges
 - The atom is **neutral**
 
+Thompson's model was a result of the findings of the [[Things to know - Nuclear and Particle Physics#Thomson experiment - Electrons | cathode ray tube]].	
+
 <pre></pre>
 #### Rutherford - Nuclear Model (Gold foil experiment)
 Claims:

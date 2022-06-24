@@ -75,7 +75,7 @@ If 2 or more charges are exerting a force on an object, you must calculate the f
 
 Remember the [[Things to know - Electrostatic and Electric Fields#2 Laws and stuff | Law of Charges]] to determine the direction of the force
 
-Also, remember [[Misc#No explicit values given]]
+Also, remember [[Example problems#No explicit values given]]
 
 
 
