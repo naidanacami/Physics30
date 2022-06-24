@@ -1,11 +1,6 @@
 # Things to know - Momentum and Impulse
 ***
 
-
-
-<pre>
-
-</pre>
 ### 1. Momentum in 1D
 In phys-30, $E=E^1$ does not apply all of the time however, $\vec\sum p=\vec\sum p'$ does apply all of the time. You must write $\vec\sum p=\vec\sum p'$ if you are using the conservation of momentum.
 
@@ -31,14 +26,31 @@ $m_{a}v_{a}+m_{b}v_{b}=m_{a}'v_{a}'+m_{b}'v_{b}'$
 - Energy conserved
 	- $\sum E=\sum E'$
 
+<pre></pre>
 #### Inelastic
 - Momentum conserved
 	- $\vec\sum p=\vec\sum p'$
 
+<pre></pre>
 #### Completely inelastic
 - Objects collide and stick together (masses combined)
 - Momentum conserved
 	- $\vec\sum p=\vec\sum p'$
+
+
+
+<pre>
+
+</pre>
+### 3. Systems
+***
+- <u>**Closed system:**</u> No **mass** enters or leaves the system
+
+-<u>**Isolated system:**</u> No external **force** acts on the system. No **energy** leaves the system.
+
+-<u>**Open system:**</u> Mass can enter and leave the system. External forces are able to influence the system.
+
+
 
 <pre>
 
