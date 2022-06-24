@@ -74,17 +74,17 @@ src="https://vignette1.wikia.nocookie.net/schools/images/f/fd/Firstlhr.JPG/revis
 For wires, the [[Things to know - Electromagnetism#Rules for magnetism | rules for magnetism]] still apply. Opposite polarities attract and like polarities repel.
 > Ex:\
 Two $0.50m$ long wires are parallel to one another. The electrical current traveling through one wire is equal and opposite in direction to the current traveling through the other. The two wires will experience:
-
-**A.** a repulsive force because the magnetic fields are in the same direction
-
-**B.** an attractive force because the two magnetic fields are in the same direction
-
-**C.** a repulsive force because the magnetic fields are in opposite directions
-
-**D.** an attractive force because the magnetic fields are in opposite directions
-
-Answer:**A**\
-Using the [[Things to know - Electromagnetism#First hand rule | first hand rule]], we can figure out that the magnetic fields are in the same direction. Since like polarities repel, the two wires will experience a repulsive force
+> 
+> **A.** a repulsive force because the magnetic fields are in the same direction
+> 
+> **B.** an attractive force because the two magnetic fields are in the same direction
+> 
+> **C.** a repulsive force because the magnetic fields are in opposite directions
+> 
+> **D.** an attractive force because the magnetic fields are in opposite directions
+> 
+> Answer:**A**\
+> Using the [[Things to know - Electromagnetism#First hand rule | first hand rule]], we can figure out that the magnetic fields are in the same direction. Since like polarities repel, the two wires will experience a repulsive force
 
 <pre></pre>
 #### Second hand rule
