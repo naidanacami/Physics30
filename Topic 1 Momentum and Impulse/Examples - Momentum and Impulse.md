@@ -23,7 +23,7 @@
 > 
 > <pre></pre>
 > <u>**Question:**</u>\
-> If all of the xenon propellant were expelled in a single short burst, what would be the change in the speed of the DS1 capsule after all the fuel is expelled?
+> If all of the xenon propellant were expelled in a single short burst, what would the in the speed of the DS1 capsule after all the fuel is expelled be?
 > 
 > <pre></pre>
 > <u>**Solving:**</u>\

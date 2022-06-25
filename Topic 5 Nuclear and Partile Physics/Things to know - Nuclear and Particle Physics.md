@@ -455,6 +455,7 @@ The easiest way of producing x-rays is by rapidly decelerating electrons as they
 
 </pre>
 ### 13. The Compton Effect
+*https://en.wikipedia.org/wiki/The_Compton_Effect*\
 X-ray collisions are [[Things to know - Momentum and Impulse#Elastic | elastic]].
 ***
 #### Conservation of energy
