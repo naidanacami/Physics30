@@ -29,6 +29,12 @@ Charge distribution:
 \*Charging an electroscope causes both the electroscope and the charging device to have the same charge
 
 <pre></pre>
+##### Charging by induction
+2 steps are required to give a conductor a permanent charge:
+1. Move a charged item near a neutral conductor to induce charge separation
+2. Ground the conductor to neutralize the buildup of charge on one side
+
+<pre></pre>
 ##### Induced charge separation
 Moving a charged item near a neutral item causes the like charge in the neutral item to “move out of the way”
 
