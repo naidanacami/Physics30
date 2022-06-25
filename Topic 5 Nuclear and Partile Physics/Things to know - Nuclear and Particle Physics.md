@@ -1,14 +1,8 @@
 # Things to know - Nuclear and Particle Physics
 ***
 
-
 ## Particle
 
-
-
-<pre>
-
-</pre>
 ### 1. Dalton's Postulates
 *https://www.khanacademy.org/science/chemistry/electronic-structure-of-atoms/history-of-atomic-structure/a/daltons-atomic-theory-version-2*
 ***
@@ -627,9 +621,6 @@ According to quantum physics, nature does not always do exactly the same thing f
 </pre>
 ## Nuclear
 
-<pre>
-
-</pre>
 ### 15. Nuclear introduction
 ***
 #### Format
