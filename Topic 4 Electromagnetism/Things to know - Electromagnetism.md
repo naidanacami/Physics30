@@ -67,8 +67,7 @@ Note:
 	- Note that the direction of the magnetic field is **around the wire**.
 <pre></pre>
 
-<img
-src="https://vignette1.wikia.nocookie.net/schools/images/f/fd/Firstlhr.JPG/revision/latest?cb=20090131132303" alt="A magnetic field around a wire with current moving upward" tabindex="0" aria-hidden="true">
+<img src="https://vignette1.wikia.nocookie.net/schools/images/f/fd/Firstlhr.JPG/revision/latest?cb=20090131132303" alt="A magnetic field around a wire with current moving upward" tabindex="0" aria-hidden="true">
 
 <pre></pre>
 For wires, the [[Things to know - Electromagnetism#Rules for magnetism | rules for magnetism]] still apply. Opposite polarities attract and like polarities repel.
