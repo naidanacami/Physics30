@@ -214,6 +214,12 @@ $$
 > \end{align}
 > $$
 
+<pre></pre>
+#### Einstein
+Einstein suggested that light itself was quantized and not just how matter could absorb or emit energy as Plank suggested.
+
+[[_Nuclear and Particle Physics Equations#Plank's quantum theory of matter | Plank's equations]] could therefore be used to calculate the energy of one or more quanta or protons of light.
+
 
 
 <pre>
