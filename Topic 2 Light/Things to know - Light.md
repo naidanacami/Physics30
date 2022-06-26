@@ -21,8 +21,7 @@ Similar triangles are related (and can be solved) by setting up a ratio of sides
 
 	With any one of these being replaced by and unknown or $x$
 
-<pre>
-</pre>
+<pre></pre>
 #### Michelson experiment
 This the one with the spinny thing
 
@@ -38,7 +37,14 @@ To calculate $\Delta t$:
 3. With $\Delta t$, $v$ can be calculated with $v=\frac{d}{t}$
 4. Profit
 
-
+<pre></pre>
+#### Properties of light
+1. Light travels in straight lines
+2. Light rays obey the laws of geometry
+3. Light has a constant speed in a given medium
+	- $3\cdot10^8m/s$ in air or vacuum
+	- $2.26\cdot10^8m/s$ in water
+	- etc
 
 <pre>
 
@@ -314,3 +320,16 @@ After being diffracted through the 2 slits, the screen shows an interference pat
 > 
 > - Replace $n$ wit $n-\frac{1}{2}$ for destructive interference
 
+
+
+<pre>
+
+</pre>
+### 8. Dispersion
+***
+The index of refraction ($n$) depends on the wavelength of light to a small degree.
+
+This normally does not result in a noticeable difference between wavelengths of light but for triangular glass prisms, this results in the separation of white light into its colors.
+
+- Red is least refracted
+- Violet is most refracted
